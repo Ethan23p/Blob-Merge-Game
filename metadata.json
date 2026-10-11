@@ -1,0 +1,6 @@
+{
+  "name": "Gravity Blobs",
+  "description": "A 360° gravitational merge game with soft-body blobs, power-of-two clusters, chain reaction multipliers, and procedural colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
